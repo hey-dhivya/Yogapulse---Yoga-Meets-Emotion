@@ -17,9 +17,12 @@ YogaPulse is an AI-powered yoga application built using Streamlit, PyTorch, and 
   Generates a downloadable personalized wellness report.
 
 ## **How to Use this app**
-### **1.Upload Image:** Click on the "Choose an image" button and upload a yoga pose image.
-### **2.Pose Analysis:** View the detected pose, proficiency score, and annotated image.
+### **1.Upload Image:** 
+Click on the "Choose an image" button and upload a yoga pose image.
+### **2.Pose Analysis:** 
+View the detected pose, proficiency score, and annotated image.
 ### **3.Mood-Based Suggestions:** 
   Enter your current mood in the text box.
   Receive yoga routine recommendations tailored to your mood.
-### **4.Download Wellness Report:** Click the "Generate Personalized Report" button to download session insights.
+### **4.Download Wellness Report:** 
+Click the "Generate Personalized Report" button to download session insights.
