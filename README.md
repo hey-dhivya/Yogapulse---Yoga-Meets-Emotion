@@ -1,4 +1,4 @@
-## **YogaPulse - Yoga Meets Emotion 🌸**
+#### **YogaPulse - Yoga Meets Emotion 🌸**
 Overview
 YogaPulse is an AI-powered yoga application built using Streamlit, PyTorch, and Mediapipe. It combines pose detection, proficiency scoring, and sentiment analysis to deliver a personalized yoga and wellness experience. Users can upload their yoga pose images, analyze their proficiency, and receive recommendations based on their detected emotions.
 
